@@ -1,0 +1,11 @@
+D:\Akki\POC\RedisConsole\RedisConsole\bin\Debug\netcoreapp2.1\RedisConsole.deps.json
+D:\Akki\POC\RedisConsole\RedisConsole\bin\Debug\netcoreapp2.1\RedisConsole.runtimeconfig.json
+D:\Akki\POC\RedisConsole\RedisConsole\bin\Debug\netcoreapp2.1\RedisConsole.runtimeconfig.dev.json
+D:\Akki\POC\RedisConsole\RedisConsole\bin\Debug\netcoreapp2.1\RedisConsole.dll
+D:\Akki\POC\RedisConsole\RedisConsole\obj\Debug\netcoreapp2.1\RedisConsole.csprojAssemblyReference.cache
+D:\Akki\POC\RedisConsole\RedisConsole\obj\Debug\netcoreapp2.1\RedisConsole.csproj.CoreCompileInputs.cache
+D:\Akki\POC\RedisConsole\RedisConsole\obj\Debug\netcoreapp2.1\RedisConsole.AssemblyInfoInputs.cache
+D:\Akki\POC\RedisConsole\RedisConsole\obj\Debug\netcoreapp2.1\RedisConsole.AssemblyInfo.cs
+D:\Akki\POC\RedisConsole\RedisConsole\bin\Debug\netcoreapp2.1\RedisConsole.pdb
+D:\Akki\POC\RedisConsole\RedisConsole\obj\Debug\netcoreapp2.1\RedisConsole.dll
+D:\Akki\POC\RedisConsole\RedisConsole\obj\Debug\netcoreapp2.1\RedisConsole.pdb
